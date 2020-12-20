@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TETRIS</string>
+
+    <string name="start_game">Start spillet</string>
+    <string name="how">Hvordan spillet fungerer</string>
+
+    <string name="how_text">Ulike figurer faller fra ”taket” (øverst på skjermen), en om gangen. Mens den faller, kan spilleren rotere den (90 grader for hver gang) og/eller flytte den horisontalt. Når figuren har kommet ned til ”golvet” (nederst på skjermen) eller støter på en annen figur, stopper den og blir stående i denne posisjonen, og en ny figur kommer fallende.
+
+Vitsen med spillet er at spilleren skal styre figurene slik at rommet fylles opp mest mulig uten hull.  Spillet avsluttes når skjermen er så full at det ikke lenger er mulig å la en ny figur komme.
+
+Det finnes fire typer figurer, I-formet, L-formet, S-formet og boks-formet. Alle figurene består av 4 kvadrater sammensatt på ulike måter. Ved starten kommer en tilfeldig figur.</string>
+
+    <string name="settings">INNSTILLINGER</string>
+    <string name="change_lang">Bytt språk:</string>
+    <string name="norwegian">Norsk</string>
+    <string name="english">English</string>
+
+    <string name="resume">Fortsett</string>
+    <string name="exit">Hovedmeny</string>
+
+    <string name="left">Venstre</string>
+    <string name="right">Høyre</string>
+    <string name="rotate">Roter</string>
+    <string name="sink">Senk</string>
+
+    <string name="menu_info">Bruk menyen øverst til høyre for å sette spillet på pause</string>
+
+    <string name="game_over">Spillet er ferdig!</string>
+</resources>
